@@ -21,8 +21,10 @@ If you have any feedback or criticism regarding the code. You are able to contac
 ## Acknowledgments
 
 Here are the database that I used in developing the model.
-https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
-https://data.mendeley.com/datasets/f45bkkt8pr/1
+
+- https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
+- https://data.mendeley.com/datasets/f45bkkt8pr/1
 
 ---
 
