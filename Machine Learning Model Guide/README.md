@@ -4,9 +4,9 @@ Welcome to the Smishing Detection Machine Learning Project! This GitHub reposito
 
 ## Project Highlights:
 
-Machine Learning Model Development: The primary focus of this project is the creation and optimization of machine learning models capable of identifying smishing attempts in text messages.
+ - Machine Learning Model Development: The primary focus of this project is the creation and optimization of machine learning models capable of identifying smishing attempts in text messages.
 
-Step-by-Step Guide: We provide a detailed step-by-step guide in the form of Jupyter Notebook (.ipynb) files, making it easy for others to replicate our work and understand the methodology behind the model development process.
+ - Step-by-Step Guide: We provide a detailed step-by-step guide in the form of Jupyter Notebook (.ipynb) files, making it easy for others to replicate our work and understand the methodology behind the model development process.
 
  - Model Evaluation: Various machine learning methods and models are rigorously tested and evaluated. We document the performance metrics of each approach to help users make informed decisions.
 
@@ -16,13 +16,13 @@ Step-by-Step Guide: We provide a detailed step-by-step guide in the form of Jupy
 
 Contributions to this project are encouraged and appreciated! Here's how you can get involved:
 
-Fork the Repository: You can fork this repository to work on your own experiments, improvements, or alternative approaches to smishing detection.
+ - Fork the Repository: You can fork this repository to work on your own experiments, improvements, or alternative approaches to smishing detection.
 
-Pull Requests: If you've developed enhancements, optimizations, or identified issues, feel free to submit pull requests to contribute your changes to the project.
+ - Pull Requests: If you've developed enhancements, optimizations, or identified issues, feel free to submit pull requests to contribute your changes to the project.
 
-Issues: Report any problems, bugs, or feature requests through the Issues section. Your feedback helps us improve the project.
+ - Issues: Report any problems, bugs, or feature requests through the Issues section. Your feedback helps us improve the project.
 
-Documentation: Help improve the clarity and completeness of our documentation, making it easier for others to understand and replicate our work.
+ - Documentation: Help improve the clarity and completeness of our documentation, making it easier for others to understand and replicate our work.
 
 Please note that this project is an ongoing effort, and we encourage collaboration and innovation in the field of smishing detection. The models and methodologies presented here may evolve as new research and technologies emerge.
 
