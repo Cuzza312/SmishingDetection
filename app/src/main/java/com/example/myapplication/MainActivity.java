@@ -38,9 +38,9 @@ public class MainActivity extends Activity {
     private void loadAndDisplayMessages() {
         // Sample data for messages (replace with your own data)
         String[] messages = {
-                "Message 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                "Message 2: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                "Message 3: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+                "Message 1: Is this a spam?",
+                "Message 2: Is this a spam?",
+                "Message 3: Is this a spam?"
 
         };
 
